@@ -1,0 +1,226 @@
+[25-Dec-2017 15:15:47 Europe/Berlin] PHP Fatal error:  Non-static method db_driver::__construct() cannot be called statically, assuming $this from incompatible context in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 15:16:13 Europe/Berlin] PHP Fatal error:  Class 'db_drive' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 15:18:41 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 16
+[25-Dec-2017 15:19:30 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 16
+[25-Dec-2017 15:20:35 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 16
+[25-Dec-2017 15:20:51 Europe/Berlin] PHP Fatal error:  Class 'pd_driver' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 15:20:52 Europe/Berlin] PHP Fatal error:  Class 'pd_driver' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 15:21:34 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::__db_connect() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[25-Dec-2017 15:21:35 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::__db_connect() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[25-Dec-2017 15:21:58 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 16
+[25-Dec-2017 22:48:02 Europe/Berlin] PHP Fatal error:  Class 'pdo_driver' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 22:48:49 Europe/Berlin] PHP Fatal error:  Class 'pdo_drver' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 22:49:18 Europe/Berlin] PHP Fatal error:  Class 'pdo_driver' not found in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[25-Dec-2017 22:51:58 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::readyDb() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[25-Dec-2017 23:04:13 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::prepare() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[25-Dec-2017 23:11:36 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::prepare() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[25-Dec-2017 23:13:01 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::prepare() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[25-Dec-2017 23:15:46 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::prepare() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[25-Dec-2017 23:41:20 Europe/Berlin] PHP Fatal error:  Call to undefined method pdo_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[25-Dec-2017 23:47:52 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[25-Dec-2017 23:56:10 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[25-Dec-2017 23:58:50 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:02:47 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:02:50 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:03:50 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:04:07 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:05:53 Europe/Berlin] PHP Fatal error:  Call to a member function query() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[26-Dec-2017 00:05:57 Europe/Berlin] PHP Fatal error:  Call to a member function query() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[26-Dec-2017 00:06:19 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\version_1\application\models\help_model.php on line 14
+[26-Dec-2017 00:09:57 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:10:12 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:10:29 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 00:10:43 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 09:35:53 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 09:37:07 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 09:38:24 Europe/Berlin] PHP Fatal error:  Call to undefined method db_driver::query() in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 09:51:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$myrec' (T_VARIABLE) in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 09:51:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$myrec' (T_VARIABLE) in C:\xampp\htdocs\version_1\application\models\help_model.php on line 13
+[26-Dec-2017 10:09:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\version_1\application\models\help_model.php on line 17
+[26-Dec-2017 10:13:39 Europe/Berlin] PHP Fatal error:  Undefined class constant '__construct' in C:\xampp\htdocs\version_1\application\models\help_model.php on line 12
+[26-Dec-2017 10:31:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\version_1\application\controllers\login.php on line 14
+[26-Dec-2017 10:31:36 Europe/Berlin] PHP Fatal error:  Class 'login_modl' not found in C:\xampp\htdocs\version_1\application\controllers\login.php on line 14
+[26-Dec-2017 10:44:45 Europe/Berlin] PHP Fatal error:  Call to undefined method login::LoadModl() in C:\xampp\htdocs\version_1\appsys\libs\bootstrap.php on line 62
+[26-Dec-2017 11:10:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in C:\xampp\htdocs\version_1\appsys\libs\form.php on line 31
+[26-Dec-2017 11:16:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC), expecting identifier (T_STRING) in C:\xampp\htdocs\version_1\appsys\libs\form.php on line 24
+[26-Dec-2017 11:35:45 Europe/Berlin] PHP Fatal error:  Call to undefined method login_model::run() in C:\xampp\htdocs\version_1\application\controllers\login.php on line 18
+[26-Dec-2017 14:33:08 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::execute() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 22
+[26-Dec-2017 14:34:07 Europe/Berlin] PHP Fatal error:  Call to undefined function fetchAll() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 26
+[26-Dec-2017 18:43:22 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:44:45 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:44:57 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:45:14 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:46:00 Europe/Berlin] PHP Fatal error:  Class 'db_query_builde' not found in C:\xampp\htdocs\version_1\appsys\libs\db_driver.php on line 27
+[26-Dec-2017 18:46:10 Europe/Berlin] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in C:\xampp\htdocs\version_1\appsys\database\db_query_builder.php on line 40
+[26-Dec-2017 18:47:19 Europe/Berlin] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in C:\xampp\htdocs\version_1\appsys\database\db_query_builder.php on line 40
+[26-Dec-2017 18:47:31 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:47:40 Europe/Berlin] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in C:\xampp\htdocs\version_1\appsys\database\db_query_builder.php on line 40
+[26-Dec-2017 18:49:20 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 18:50:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'extends' (T_EXTENDS), expecting '{' in C:\xampp\htdocs\version_1\appsys\database\drivers\pdo\pdo_driver.php on line 21
+[26-Dec-2017 18:51:36 Europe/Berlin] PHP Fatal error:  Call to undefined method PDO::insert() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 36
+[26-Dec-2017 19:01:13 Europe/Berlin] PHP Fatal error:  Cannot re-assign $this in C:\xampp\htdocs\version_1\application\models\login_model.php on line 33
+[26-Dec-2017 19:01:29 Europe/Berlin] PHP Fatal error:  Call to undefined method db_query_builder::_object_to_array() in C:\xampp\htdocs\version_1\appsys\database\db_query_builder.php on line 96
+[26-Dec-2017 19:06:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'array_keys' (T_STRING) in C:\xampp\htdocs\version_1\appsys\database\db_query_builder.php on line 86
+[26-Dec-2017 19:07:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in C:\xampp\htdocs\version_1\appsys\libs\db_driver.php on line 83
+[26-Dec-2017 22:23:20 Europe/Berlin] PHP Warning:  Missing argument 2 for loadImportant(), called in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 363 and defined in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 331
+[26-Dec-2017 22:23:20 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 343
+[26-Dec-2017 22:23:20 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 287
+[26-Dec-2017 22:23:20 Europe/Berlin] PHP Fatal error:  Call to undefined function xss_clean() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 19
+[26-Dec-2017 22:24:09 Europe/Berlin] PHP Warning:  unserialize() expects parameter 1 to be string, array given in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 283
+[26-Dec-2017 22:24:09 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 287
+[26-Dec-2017 22:24:09 Europe/Berlin] PHP Fatal error:  Call to undefined function xss_clean() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 19
+[26-Dec-2017 22:24:12 Europe/Berlin] PHP Warning:  unserialize() expects parameter 1 to be string, array given in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 283
+[26-Dec-2017 22:24:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\version_1\appsys\core\CommonFunctions.php on line 287
+[26-Dec-2017 22:24:12 Europe/Berlin] PHP Fatal error:  Call to undefined function xss_clean() in C:\xampp\htdocs\version_1\application\models\login_model.php on line 19
+[26-Dec-2017 22:31:09 Europe/Berlin] PHP Fatal error:  Class 'form' not found in C:\xampp\htdocs\version_1\application\views\login\index.php on line 3
+[01-Jan-2018 14:33:36 Europe/Berlin] PHP Fatal error:  Call to undefined function formOpen() in C:\xampp\htdocs\version_1\application\views\login\index.php on line 3
+[02-Jan-2018 23:05:17 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:06:37 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:09:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:14:43 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:14:47 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:17:24 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:18:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:18:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 24
+[02-Jan-2018 23:18:54 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_driver::db_connect() in C:\xampp\htdocs\version_1\app_system\libs\db_driver.php on line 41
+[02-Jan-2018 23:19:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:20:20 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:21:17 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:23:07 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:23:09 Europe/Berlin] PHP Fatal error:  Cannot redeclare class mysqli_driver in C:\xampp\htdocs\version_1\app_system\database\drivers\mysqli\mysqli_driver.php on line 23
+[02-Jan-2018 23:23:34 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_driver::db_connect() in C:\xampp\htdocs\version_1\app_system\libs\db_driver.php on line 41
+[02-Jan-2018 23:25:45 Europe/Berlin] PHP Fatal error:  Class 'Zm_mysqli_driver' not found in C:\xampp\htdocs\version_1\app_system\libs\db_driver.php on line 40
+[02-Jan-2018 23:28:15 Europe/Berlin] PHP Fatal error:  Call to a member function execute() on boolean in C:\xampp\htdocs\version_1\application\models\login_model.php on line 23
+[02-Jan-2018 23:33:03 Europe/Berlin] PHP Fatal error:  Call to undefined method Zm_mysql_driver::db_connect() in C:\xampp\htdocs\version_1\app_system\libs\db_driver.php on line 46
+[02-Jan-2018 23:42:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in C:\xampp\htdocs\version_1\app_system\database\database.php on line 25
+[02-Jan-2018 23:42:37 Europe/Berlin] PHP Fatal error:  Access level to Zm_mysql_driver::$database must be public (as in class database) in C:\xampp\htdocs\version_1\app_system\database\drivers\mysql\mysql_driver.php on line 21
+[02-Jan-2018 23:44:35 Europe/Berlin] PHP Fatal error:  Call to undefined method Zm_mysql_driver::Dsn() in C:\xampp\htdocs\version_1\app_system\database\drivers\mysql\mysql_driver.php on line 88
+[02-Jan-2018 23:52:20 Europe/Berlin] PHP Fatal error:  Cannot redeclare formClose() (previously declared in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php:71) in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 77
+[02-Jan-2018 23:54:53 Europe/Berlin] PHP Notice:  Use of undefined constant INDEX_PAGE - assumed 'INDEX_PAGE' in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 79
+[02-Jan-2018 23:55:03 Europe/Berlin] PHP Notice:  Use of undefined constant INDEX - assumed 'INDEX' in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 79
+[02-Jan-2018 23:55:25 Europe/Berlin] PHP Notice:  Use of undefined constant index_page - assumed 'index_page' in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 79
+[03-Jan-2018 00:11:43 Europe/Berlin] PHP Fatal error:  Call to undefined function anchor_popup() in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 21
+[03-Jan-2018 00:12:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 22
+[03-Jan-2018 00:12:30 Europe/Berlin] PHP Fatal error:  Call to undefined function anchor_popup() in C:\xampp\htdocs\version_1\app_system\core\helpers\form.php on line 21
+[03-Jan-2018 00:13:06 Europe/Berlin] PHP Fatal error:  Call to undefined function site_url() in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 386
+[03-Jan-2018 00:17:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 32
+[03-Jan-2018 00:18:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 32
+[03-Jan-2018 00:18:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 37
+[03-Jan-2018 00:18:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 37
+[03-Jan-2018 09:36:28 Europe/Berlin] PHP Fatal error:  Cannot redeclare CurrentPageURL() (previously declared in C:\xampp\htdocs\version_1\app_system\core\CommonFunctions.php:326) in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 456
+[06-Jan-2018 12:53:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\version_1\app_system\core\helpers\email.php on line 124
+[06-Jan-2018 12:53:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'new_login_alert' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 120
+[06-Jan-2018 12:54:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'new_login_alert' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 120
+[06-Jan-2018 12:54:41 Europe/Berlin] PHP Warning:  Missing argument 1 for Email_Layout::__construct(), called in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 592 and defined in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 68
+[06-Jan-2018 12:56:50 Europe/Berlin] PHP Notice:  Undefined variable: confg in C:\xampp\htdocs\version_1\application\config\define.php on line 44
+[06-Jan-2018 12:57:02 Europe/Berlin] PHP Notice:  Undefined index: ite_name in C:\xampp\htdocs\version_1\application\config\define.php on line 44
+[06-Jan-2018 12:57:33 Europe/Berlin] PHP Notice:  Undefined variable: message in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 85
+[06-Jan-2018 12:57:33 Europe/Berlin] PHP Notice:  Undefined variable: site_url in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 92
+[06-Jan-2018 12:59:03 Europe/Berlin] PHP Notice:  Undefined variable: site_url in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 92
+[06-Jan-2018 13:00:06 Europe/Berlin] PHP Notice:  Undefined variable: email_types in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 101
+[06-Jan-2018 13:00:06 Europe/Berlin] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 101
+[06-Jan-2018 13:05:05 Europe/Berlin] PHP Fatal error:  Call to undefined function exits() in C:\xampp\htdocs\version_1\app_system\core\helpers\email_layout.php on line 126
+[06-Jan-2018 13:13:48 Europe/Berlin] PHP Fatal error:  Call to undefined method login::login() in C:\xampp\htdocs\version_1\app_system\libs\bootstrap.php on line 69
+[06-Jan-2018 13:14:02 Europe/Berlin] PHP Fatal error:  Call to undefined method login::login() in C:\xampp\htdocs\version_1\app_system\libs\bootstrap.php on line 69
+[06-Jan-2018 13:56:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\version_1\application\controllers\index.php on line 15
+[06-Jan-2018 16:35:09 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\application\config\define.php on line 62
+[06-Jan-2018 16:37:11 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\application\config\define.php on line 62
+[06-Jan-2018 16:39:41 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\application\config\define.php on line 62
+[06-Jan-2018 16:40:18 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\application\config\define.php on line 62
+[06-Jan-2018 16:46:06 Europe/Berlin] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\version_1\application\config\autoload.php on line 41
+[06-Jan-2018 17:00:16 Europe/Berlin] PHP Notice:  Undefined variable: autoload in C:\xampp\htdocs\version_1\application\config\define.php on line 62
+[06-Jan-2018 17:12:50 Europe/Berlin] PHP Fatal error:  Call to undefined function requireFiles() in C:\xampp\htdocs\version_1\application\libs\view.php on line 37
+[06-Jan-2018 17:14:47 Europe/Berlin] PHP Notice:  Use of undefined constant HELPERS - assumed 'HELPERS' in C:\xampp\htdocs\version_1\app_system\core\CommonFunctions.php on line 367
+[06-Jan-2018 17:14:47 Europe/Berlin] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\version_1\app_system\core\CommonFunctions.php on line 367
+[06-Jan-2018 17:15:11 Europe/Berlin] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\version_1\app_system\core\CommonFunctions.php on line 367
+[06-Jan-2018 17:15:12 Europe/Berlin] PHP Warning:  Constants may only evaluate to scalar values in C:\xampp\htdocs\version_1\app_system\core\CommonFunctions.php on line 367
+[06-Jan-2018 17:18:48 Europe/Berlin] PHP Fatal error:  Call to a member function hr() on null in C:\xampp\htdocs\version_1\application\views\index\index.php on line 1
+[06-Jan-2018 17:19:34 Europe/Berlin] PHP Fatal error:  Call to a member function hr() on null in C:\xampp\htdocs\version_1\application\views\index\index.php on line 3
+[06-Jan-2018 17:19:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in C:\xampp\htdocs\version_1\app_system\core\helpers\html.php on line 442
+[06-Jan-2018 18:40:16 Europe/Berlin] PHP Fatal error:  Call to undefined function redirct() in C:\xampp\htdocs\version_1\application\views\index\index.php on line 9
+[06-Jan-2018 19:07:39 Europe/Berlin] PHP Fatal error:  Call to undefined method html::nbs() in C:\xampp\htdocs\version_1\application\views\header.php on line 14
+[06-Jan-2018 19:19:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\version_1\application\views\login\index.php on line 2
+[06-Jan-2018 19:37:30 Europe/Berlin] PHP Fatal error:  Call to undefined method Exception::show_404() in C:\xampp\htdocs\version_1\application\views\help\index.php on line 9
+[06-Jan-2018 19:37:41 Europe/Berlin] PHP Fatal error:  Call to undefined method Exception::show404() in C:\xampp\htdocs\version_1\application\views\help\index.php on line 9
+[06-Jan-2018 20:36:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\version_1\application\models\login_model.php on line 23
+[06-Jan-2018 20:59:55 Europe/Berlin] PHP Fatal error:  Call to a member function p() on null in C:\xampp\htdocs\version_1\application\models\login_model.php on line 55
+[06-Jan-2018 21:01:53 Europe/Berlin] PHP Fatal error:  Cannot call constructor in C:\xampp\htdocs\version_1\app_system\libs\controller.php on line 11
+[07-Jan-2018 14:36:20 Europe/Berlin] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in C:\xampp\htdocs\version_1\application\controllers\dashboard.php on line 16
+[07-Jan-2018 15:20:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 110
+[07-Jan-2018 15:20:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in C:\xampp\htdocs\version_1\app_system\core\helpers\url.php on line 110
+[07-Jan-2018 15:45:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\xampp\htdocs\version_1\application\views\dashboard\index.php on line 7
+[07-Jan-2018 15:50:10 Europe/Berlin] PHP Fatal error:  Call to undefined function sho404() in C:\xampp\htdocs\version_1\application\controllers\dashboard.php on line 36
+[07-Jan-2018 16:22:14 Europe/Berlin] PHP Fatal error:  Class 'validate' not found in C:\xampp\htdocs\version_1\application\models\dashboard_model.php on line 20
+[07-Jan-2018 17:56:37 Europe/Berlin] PHP Fatal error:  Call to undefined method validation::sucess() in C:\xampp\htdocs\version_1\application\models\dashboard_model.php on line 40
+[07-Jan-2018 18:03:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\version_1\application\models\dashboard_model.php on line 28
+[07-Jan-2018 18:04:02 Europe/Berlin] PHP Fatal error:  Call to undefined function alert() in C:\xampp\htdocs\version_1\application\models\dashboard_model.php on line 22
+[07-Jan-2018 18:21:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\version_1\application\models\dashboard_model.php on line 43
+[10-Jan-2018 15:05:18 Europe/Berlin] PHP Fatal error:  Call to undefined method dashboard::dashboard() in C:\xampp\htdocs\version_1\app_system\libs\bootstrap.php on line 75
+[15-Jan-2018 13:45:30 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:46:29 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:58:30 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:59:16 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:59:41 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:59:43 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 13:59:45 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:00:08 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:00:09 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:00:20 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:00:22 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:00:58 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:01:24 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:01:35 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:01:50 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:02:46 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:02:48 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:03:17 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:04:19 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[15-Jan-2018 14:05:10 Europe/Berlin] PHP Notice:  Use of undefined constant VIEW - assumed 'VIEW' in C:\xampp\htdocs\zoom\app_system\core\Loader.php on line 60
+[15-Jan-2018 14:29:08 Europe/Berlin] PHP Fatal error:  Class 'error' not found in C:\xampp\htdocs\zoom\app_system\core\Exceptions.php on line 78
+[15-Jan-2018 14:29:12 Europe/Berlin] PHP Fatal error:  Class 'error' not found in C:\xampp\htdocs\zoom\app_system\core\Exceptions.php on line 78
+[15-Jan-2018 14:31:14 Europe/Berlin] PHP Fatal error:  Class 'error' not found in C:\xampp\htdocs\zoom\app_system\core\Exceptions.php on line 78
+[15-Jan-2018 14:59:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\zoom\app_system\core\Loader.php on line 149
+[15-Jan-2018 15:00:23 Europe/Berlin] PHP Notice:  Use of undefined constant ZOOM_VERSION - assumed 'ZOOM_VERSION' in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:13:55 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:14:24 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:15:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'new' (T_NEW), expecting function (T_FUNCTION) in C:\xampp\htdocs\zoom\app_system\core\ErrorHandler.php on line 23
+[15-Jan-2018 15:16:22 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\ErrorHandler.php on line 19
+[15-Jan-2018 15:16:44 Europe/Berlin] PHP Fatal error:  Undefined class constant 'db::USER' in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:16:46 Europe/Berlin] PHP Fatal error:  Undefined class constant 'db::USER' in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:17:03 Europe/Berlin] PHP Fatal error:  Class 'dss' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:17:16 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:55:29 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:56:09 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:56:11 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[15-Jan-2018 15:57:48 Europe/Berlin] PHP Notice:  Use of undefined constant SYSCONFIG - assumed 'SYSCONFIG' in C:\xampp\htdocs\zoom\app_system\core\Loader.php on line 101
+[15-Jan-2018 15:57:48 Europe/Berlin] PHP Fatal error:  Class 'zoom_config' not found in C:\xampp\htdocs\zoom\app_system\core\CommonFunctions.php on line 201
+[16-Jan-2018 10:01:58 Europe/Berlin] PHP Fatal error:  Class 'session' not found in C:\xampp\htdocs\zoom\app_system\libs\controller.php on line 28
+[16-Jan-2018 10:01:59 Europe/Berlin] PHP Fatal error:  Class 'session' not found in C:\xampp\htdocs\zoom\app_system\libs\controller.php on line 28
+[16-Jan-2018 10:17:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in C:\xampp\htdocs\zoom\app_system\libs\view.php on line 49
+[16-Jan-2018 16:41:44 Europe/Berlin] PHP Fatal error:  Call to a member function otag() on null in C:\xampp\htdocs\zoom\application\views\zoom_welcome.php on line 3
+[22-Jan-2018 11:08:35 Europe/Berlin] PHP Notice:  Undefined index: zoom_welcome in C:\xampp\htdocs\zoom\application\config\define.php on line 46
+[26-Feb-2018 21:56:14 Europe/Berlin] PHP Fatal error:  Class 'testerror' not found in C:\xampp\htdocs\zoom\app_system\libs\bootstrap.php on line 112
+[04-Mar-2018 15:39:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\xampp\htdocs\zoom\app_system\core\helpers\html.php on line 583
+[04-Mar-2018 15:41:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in C:\xampp\htdocs\zoom\app_system\core\helpers\html.php on line 722
+[04-Mar-2018 16:00:50 Europe/Berlin] PHP Fatal error:  Class 'swod' not found in C:\xampp\htdocs\zoom\app_system\libs\view.php on line 70
+[04-Mar-2018 16:11:21 Europe/Berlin] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in C:\xampp\htdocs\zoom\app_system\libs\sword.php on line 29
+[04-Mar-2018 16:11:29 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\zoom\app_system\core\Loader.php on line 136
+[04-Mar-2018 16:14:54 Europe/Berlin] PHP Fatal error:  Call to undefined method view::assign() in C:\xampp\htdocs\zoom\application\controllers\zoom_welcome.php on line 20
+[04-Mar-2018 16:17:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'assign' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\zoom\app_system\libs\view.php on line 32
+[04-Mar-2018 16:17:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'assign' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\zoom\app_system\libs\view.php on line 32
+[04-Mar-2018 18:59:56 Europe/Berlin] PHP Fatal error:  Call to undefined method view::assign() in C:\xampp\htdocs\zoom\application\controllers\zoom_welcome.php on line 21
+[04-Mar-2018 19:11:28 Europe/Berlin] PHP Fatal error:  Call to undefined function e() in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 1
+[04-Mar-2018 19:12:48 Europe/Berlin] PHP Fatal error:  Call to undefined function e() in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 1
+[04-Mar-2018 19:12:50 Europe/Berlin] PHP Fatal error:  Call to undefined function e() in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 1
+[04-Mar-2018 19:15:41 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\zoom\app_system\core\Loader.php on line 121
+[04-Mar-2018 19:20:40 Europe/Berlin] PHP Fatal error:  Call to a member function assign() on null in C:\xampp\htdocs\zoom\application\controllers\zoom_welcome.php on line 21
+[04-Mar-2018 19:21:48 Europe/Berlin] PHP Fatal error:  Call to undefined method html::tt() in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 1
+[04-Mar-2018 19:37:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected '*' in C:\xampp\htdocs\zoom\app_system\libs\sword.php on line 41
+[04-Mar-2018 19:38:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:39:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:39:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:39:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:39:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:45:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\zoom\app_system\libs\sword.php(43) : eval()'d code on line 5
+[04-Mar-2018 19:48:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\zoom\app_system\libs\sword.php on line 48
+[04-Mar-2018 19:51:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '*' in C:\xampp\htdocs\zoom\app_system\libs\sword.php on line 40
