@@ -1,0 +1,13 @@
+{
+    "name": "joeworld/zoom",
+    "description": "ZoomFramework is a minimal PHP framework which uses the MVC architectural pattern",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Joestack",
+            "email": "iamjoestack@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
